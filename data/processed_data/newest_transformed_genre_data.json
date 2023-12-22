@@ -1,0 +1,154 @@
+{
+  "genres_data": [
+    {
+      "genre_name": "Rock",
+      "genre_tracks": 1297,
+      "genre_artists": 51,
+      "genre_likability_score": 519.32
+    },
+    {
+      "genre_name": "Latin",
+      "genre_tracks": 579,
+      "genre_artists": 28,
+      "genre_likability_score": 231.88
+    },
+    {
+      "genre_name": "Metal",
+      "genre_tracks": 374,
+      "genre_artists": 14,
+      "genre_likability_score": 149.74
+    },
+    {
+      "genre_name": "Alternative & Punk",
+      "genre_tracks": 332,
+      "genre_artists": 16,
+      "genre_likability_score": 132.96
+    },
+    {
+      "genre_name": "Jazz",
+      "genre_tracks": 130,
+      "genre_artists": 10,
+      "genre_likability_score": 52.1
+    },
+    {
+      "genre_name": "TV Shows",
+      "genre_tracks": 93,
+      "genre_artists": 5,
+      "genre_likability_score": 37.25
+    },
+    {
+      "genre_name": "Blues",
+      "genre_tracks": 81,
+      "genre_artists": 5,
+      "genre_likability_score": 32.45
+    },
+    {
+      "genre_name": "Classical",
+      "genre_tracks": 74,
+      "genre_artists": 66,
+      "genre_likability_score": 30.27
+    },
+    {
+      "genre_name": "Drama",
+      "genre_tracks": 64,
+      "genre_artists": 2,
+      "genre_likability_score": 25.62
+    },
+    {
+      "genre_name": "R&B/Soul",
+      "genre_tracks": 61,
+      "genre_artists": 4,
+      "genre_likability_score": 24.44
+    },
+    {
+      "genre_name": "Reggae",
+      "genre_tracks": 58,
+      "genre_artists": 3,
+      "genre_likability_score": 23.23
+    },
+    {
+      "genre_name": "Pop",
+      "genre_tracks": 48,
+      "genre_artists": 3,
+      "genre_likability_score": 19.23
+    },
+    {
+      "genre_name": "Soundtrack",
+      "genre_tracks": 43,
+      "genre_artists": 4,
+      "genre_likability_score": 17.24
+    },
+    {
+      "genre_name": "Alternative",
+      "genre_tracks": 40,
+      "genre_artists": 5,
+      "genre_likability_score": 16.05
+    },
+    {
+      "genre_name": "Hip Hop/Rap",
+      "genre_tracks": 35,
+      "genre_artists": 2,
+      "genre_likability_score": 14.02
+    },
+    {
+      "genre_name": "Electronica/Dance",
+      "genre_tracks": 30,
+      "genre_artists": 3,
+      "genre_likability_score": 12.03
+    },
+    {
+      "genre_name": "Heavy Metal",
+      "genre_tracks": 28,
+      "genre_artists": 1,
+      "genre_likability_score": 11.21
+    },
+    {
+      "genre_name": "World",
+      "genre_tracks": 28,
+      "genre_artists": 3,
+      "genre_likability_score": 11.23
+    },
+    {
+      "genre_name": "Sci Fi & Fantasy",
+      "genre_tracks": 26,
+      "genre_artists": 2,
+      "genre_likability_score": 10.42
+    },
+    {
+      "genre_name": "Easy Listening",
+      "genre_tracks": 24,
+      "genre_artists": 1,
+      "genre_likability_score": 9.61
+    },
+    {
+      "genre_name": "Comedy",
+      "genre_tracks": 17,
+      "genre_artists": 1,
+      "genre_likability_score": 6.81
+    },
+    {
+      "genre_name": "Bossa Nova",
+      "genre_tracks": 15,
+      "genre_artists": 1,
+      "genre_likability_score": 6.01
+    },
+    {
+      "genre_name": "Science Fiction",
+      "genre_tracks": 13,
+      "genre_artists": 1,
+      "genre_likability_score": 5.21
+    },
+    {
+      "genre_name": "Rock And Roll",
+      "genre_tracks": 12,
+      "genre_artists": 1,
+      "genre_likability_score": 4.81
+    },
+    {
+      "genre_name": "Opera",
+      "genre_tracks": 1,
+      "genre_artists": 1,
+      "genre_likability_score": 0.41
+    }
+  ]
+}

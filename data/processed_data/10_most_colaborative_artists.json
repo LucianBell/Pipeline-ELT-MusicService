@@ -1,0 +1,54 @@
+{
+  "artists": [
+    {
+      "artist_id": 90,
+      "name": "Iron Maiden",
+      "album_count": 21
+    },
+    {
+      "artist_id": 22,
+      "name": "Led Zeppelin",
+      "album_count": 14
+    },
+    {
+      "artist_id": 58,
+      "name": "Deep Purple",
+      "album_count": 11
+    },
+    {
+      "artist_id": 50,
+      "name": "Metallica",
+      "album_count": 10
+    },
+    {
+      "artist_id": 150,
+      "name": "U2",
+      "album_count": 10
+    },
+    {
+      "artist_id": 114,
+      "name": "Ozzy Osbourne",
+      "album_count": 6
+    },
+    {
+      "artist_id": 118,
+      "name": "Pearl Jam",
+      "album_count": 5
+    },
+    {
+      "artist_id": 82,
+      "name": "Faith No More",
+      "album_count": 4
+    },
+    {
+      "artist_id": 84,
+      "name": "Foo Fighters",
+      "album_count": 4
+    },
+    {
+      "artist_id": 149,
+      "name": "Lost",
+      "album_count": 4
+    }
+  ]
+}
